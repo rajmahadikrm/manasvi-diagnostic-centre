@@ -7,7 +7,7 @@ function About() {
       <div className="container mx-auto px-6 grid lg:grid-cols-2 gap-14 items-center">
 
         <img
-          src="\images\seven.jpeg"
+          src="\images\third.jpeg"
           alt="X-Ray Centre"
           className="rounded-3xl shadow-xl"
         />

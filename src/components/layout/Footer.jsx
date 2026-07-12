@@ -232,6 +232,14 @@ function Footer() {
             >
               <FaWhatsapp/>
             </a>
+            <a
+  href="https://maps.google.com/?q=Manasvi+Diagnostic+Centre+Wagholi"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="bg-red-600 text-white px-5 py-3 rounded-lg"
+>
+  View on Google Maps
+</a>
 
           </div>
 
