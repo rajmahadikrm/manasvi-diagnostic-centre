@@ -7,7 +7,7 @@ function About() {
         
         <div>
           <img
-            src="https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?w=900"
+            src="\images\seven.jpeg"
             alt="About"
             className="rounded-3xl shadow-lg"
           />
