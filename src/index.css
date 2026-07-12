@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  font-family: "Segoe UI", sans-serif;
+  background:#F8FAFC;
+  color:#1E293B;
+}
+
+a{
+  text-decoration:none;
+}
+
+img{
+  width:100%;
+  display:block;
+}
+
+button{
+  cursor:pointer;
+}
+
+.container{
+  max-width:1280px;
+  margin:auto;
+  padding:0 20px;
+}
+/* Section Spacing */
+
+section{
+    padding-top:80px;
+    padding-bottom:80px;
+}
