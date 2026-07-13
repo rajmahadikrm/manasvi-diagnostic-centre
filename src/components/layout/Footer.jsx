@@ -75,11 +75,6 @@ function Footer() {
                 </Link>
               </li>
 
-              <li>
-                <Link to="/gallery" className="hover:text-red-500">
-                  Gallery
-                </Link>
-              </li>
 
               <li>
                 <Link to="/contact" className="hover:text-red-500">
