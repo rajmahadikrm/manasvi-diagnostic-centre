@@ -95,7 +95,7 @@ function Hero() {
             <div className="flex flex-wrap gap-5 mt-12">
 
               <a
-                href="tel:+917887564545"
+                href="tel:+919370125127"
                 className="bg-red-600 hover:bg-red-700 duration-300 text-white px-8 py-4 rounded-full flex items-center gap-3 shadow-xl"
               >
 
