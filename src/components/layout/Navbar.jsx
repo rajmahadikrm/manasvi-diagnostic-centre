@@ -149,7 +149,7 @@ function Navbar() {
               ))}
 
               <a
-                href="tel:+917887564545"
+                href="tel:+919370125127"
                 className="m-5 bg-red-600 text-white rounded-xl py-3 text-center"
               >
                 Call Now
