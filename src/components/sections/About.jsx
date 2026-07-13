@@ -7,7 +7,7 @@ function About() {
         
         <div>
           <img
-            src="\images\seven.jpeg"
+            src="/images/seven.jpeg"
             alt="About"
             className="rounded-3xl shadow-lg"
           />
