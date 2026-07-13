@@ -40,7 +40,7 @@ Pune - 412207
 
               <FaPhoneAlt className="text-red-600"/>
 
-              +91 78875 64545
+              +91 93701 25127
             </p>
                         <p className="mt-5 flex gap-4">
 

@@ -22,7 +22,7 @@ className="fixed bottom-6 right-6 bg-green-500 text-white w-16 h-16 rounded-full
 
 <a
 
-href="tel:+917887564545"
+href="tel:+919370125127"
 
 className="fixed bottom-28 right-6 bg-red-600 text-white w-16 h-16 rounded-full flex justify-center items-center text-2xl shadow-xl hover:scale-110 duration-300 z-50"
 

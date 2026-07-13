@@ -109,7 +109,7 @@ function Navbar() {
             {/* Call Button */}
 
             <a
-              href="tel:+919876543210"
+              href="tel:++919370125127"
               className="hidden lg:flex items-center gap-2 bg-red-600 text-white px-6 py-3 rounded-full hover:bg-red-700 duration-300"
             >
               <FaPhoneAlt />
